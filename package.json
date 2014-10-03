@@ -1,0 +1,23 @@
+{
+  "name": "sinon_server_bower",
+  "description": "sinon_server_bower ==================",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "shelljs": "^0.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rupurt/sinon_server_bower.git"
+  },
+  "author": "Alex Kwiatkowski <alex@rival-studios.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rupurt/sinon_server_bower/issues"
+  },
+  "homepage": "https://github.com/rupurt/sinon_server_bower"
+}

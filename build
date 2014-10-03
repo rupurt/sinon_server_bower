@@ -1,0 +1,10 @@
+#!/bin/bash
+
+mkdir -p tmp
+git clone https://github.com/cjohansen/Sinon.JS.git tmp/Sinon.JS
+cd tmp/Sinon.JS
+npm install
+cp pkg/sinon-server-*.js ../../sinon-server.js
+
+cd ..
+rm -rf Sinon.JS

@@ -1,0 +1,26 @@
+{
+  "name": "sinon_server",
+  "version": "1.10.13",
+  "homepage": "https://github.com/rupurt/sinon_server_bower",
+  "description": "Standalone package for sinon server",
+  "main": "sinon-server.js",
+  "keywords": [
+    "sinon",
+    "server",
+    "fake",
+    "mock",
+    "ajax"
+  ],
+  "authors": [
+    "Alex Kwiatkowski <alex@rival-studios.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "tmp"
+  ]
+}
